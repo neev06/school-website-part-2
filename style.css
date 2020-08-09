@@ -1,0 +1,32 @@
+h1{
+
+color:red;
+font-family: Algerian;
+
+}
+h4{
+
+color:yellow;
+font-family: sans-serif;
+
+
+}
+ h1{
+    border: solid;
+    border-color:#00a0a0;
+    padding: 5px ;
+
+} 
+
+h5{
+  border: solid;
+    border-color:#5300a0;
+    padding: 5px ;
+
+} 
+h4{
+    border: solid;
+    border-color:#FFB03D;
+    padding: 2px ;
+
+} 
